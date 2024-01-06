@@ -1,0 +1,50 @@
+body{
+    background-color: #111;
+  }
+  h1{
+    color: white;
+    text-align: center;
+    margin: 3px;
+  }
+  .inp{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+  
+  }
+  .container{
+    width: 100%;
+    background-color: grey;
+    padding: 1rem 1rem;
+    margin: 2rem 2rem;
+    color: orangered;
+  
+    
+  }
+  .inp input{
+    
+     width: 20rem;
+    padding: 4px;
+    padding: 7px 15px;
+  }
+  .btn{
+    background-color: blue;
+    color: white;
+    margin-left: 1rem;
+    
+  
+  }
+  .ac{
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+  
+  }
+  .bc{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  .bc input{
+    cursor: pointer;
+  }
